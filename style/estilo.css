@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+*{
+padding: 0px;
+margin: 0px;
+}
+header{
+    text-decoration: ;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.336);
+    color: white;
+    text-align: center
+
+}
+header > h1{
+    font-size: 10vh;
+}
+header > menu{
+       font-size: 5vh;
+    
+} 
+header > menu a:hover{
+    text-decoration: none;
+    font-size: 5vh;
+    color: rgb(11, 45, 240);
+}
+main{
+    background-color: rgb(166, 228, 228);
+    width: 100vw;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font:  sans-serif;
+    background-color: rgba(160, 255, 255, 0.774);
+    border-radius: 5px;
+}
