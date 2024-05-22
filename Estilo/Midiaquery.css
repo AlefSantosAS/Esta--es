@@ -2,7 +2,18 @@
 
 
 @media screen and (min-width:768px) and (max-width:992px){
-    main{background-image: url(../Imagens/inverno.jpg);
+    main{
+       
+        
+        border-radius: 10px;
+        width: 98vw;
+        height: ;
+
+        
+    }
+    main > img{
+        width: 98vw;
+        height: 100vh;
     }
   
 }
